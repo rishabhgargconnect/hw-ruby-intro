@@ -12,11 +12,8 @@ BookInStock
     should reject negative price [10 points]
   #price_as_string
     should be defined
-HMM
     should display 33.95 as "$33.95" [10 points]
-HMM
     should display 1.1 as $1.10 [10 points]
-HMM
     should display 20 as $20.00 [10 points]
 
 Finished in 0.00456 seconds (files took 0.09674 seconds to load)

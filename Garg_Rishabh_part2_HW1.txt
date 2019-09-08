@@ -1,0 +1,26 @@
+
+#hello
+  should be defined
+  The hello method returns the correct string [30 points]
+
+#starts_with_consonant?
+  should be defined
+  classifies true cases [10 points]
+  classifies false cases [10 points]
+  works on the empty string [5 points]
+  works on nonletters [5 points]
+
+#binary_multiple_of_4?
+  should be defined
+5460
+21844
+4
+0
+5
+4097
+  classifies valid binary numbers [30 points]
+  rejects invalid binary numbers [10 points]
+
+Finished in 0.00433 seconds (files took 0.08752 seconds to load)
+10 examples, 0 failures
+
